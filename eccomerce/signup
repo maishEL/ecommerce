@@ -1,0 +1,21 @@
+<html>
+<head><title></title>
+</head>
+<body>
+<form class="ab" action="index.html" method="post">
+  <label for="fn"></label>
+  <input id="fn" type="text" name="" placeholder="FirstName"="required">
+  <label for="fn"></label>
+  <input id="ln" type="text" name="" placeholder="LastName"="required">
+  <input id=idno type="text" name="" placeholder="IDNumber"="required">
+  <input id="rg" type="text" name="" placeholder="region"="required">
+<p>Payment</p>
+<select class="" name="payement">
+<option value="p">paypal</option>
+<option value="m">mpesa</option>
+<option value="v">visacard</option>
+
+</select>
+</form>
+</body>
+</html>
